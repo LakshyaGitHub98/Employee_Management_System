@@ -1,0 +1,8 @@
+com\employee_frontend\models\Employee.class
+com\employee_frontend\ui\FormPage.class
+com\employee_frontend\ui\EmployeeListPage.class
+com\employee_frontend\ui\HomePage.class
+com\employee_frontend\json\JSONArray.class
+com\employee_frontend\Main.class
+com\employee_frontend\services\EmployeeApiService.class
+com\employee_frontend\json\JSONObject.class
